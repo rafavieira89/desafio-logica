@@ -8,7 +8,7 @@ Dica: Se o expert forneceu um repositório Github, você pode dar um "fork" no r
  
 Instruções para entrega
 
-# 1️⃣ Desafio Classificador de nível de Herói
+# 1️⃣Desafio Classificador de nível de Herói
 
 **O Que deve ser utilizado**
 
